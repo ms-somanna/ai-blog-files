@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" modified="2023-07-12T19:38:16.293Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tJ60l95Oa-ObbN4W4qBa" version="21.6.2" type="github" pages="2">
+  <diagram name="Page-1" id="DZU3QWc2084IByeYCR2n">
+    <mxGraphModel dx="834" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="buuArNH3ClPtBuPtcZ4h-1" target="buuArNH3ClPtBuPtcZ4h-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-1" value="Problem&lt;br&gt;Identification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="buuArNH3ClPtBuPtcZ4h-2" target="buuArNH3ClPtBuPtcZ4h-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-2" value="Make observations that overcome the problem" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="buuArNH3ClPtBuPtcZ4h-15" target="buuArNH3ClPtBuPtcZ4h-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-15" value="Store patterns in memory" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="buuArNH3ClPtBuPtcZ4h-17" target="buuArNH3ClPtBuPtcZ4h-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-17" value="Test the patterns on a new set of tasks that require the problem to be solved." style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="975" y="400" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-22" value="Patterns with&lt;br&gt;good Score" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="buuArNH3ClPtBuPtcZ4h-19" target="buuArNH3ClPtBuPtcZ4h-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="buuArNH3ClPtBuPtcZ4h-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="570" as="sourcePoint" />
+            <mxPoint x="1180" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-25" value="Patterns with&lt;br&gt;bad score" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="buuArNH3ClPtBuPtcZ4h-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.225" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-19" value="Get the evaluation scores for each pattern" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-21" value="Implement the patterns to solve the problem in future set of tasks" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="528" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-23" value="Ignore the patterns" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="buuArNH3ClPtBuPtcZ4h-31" target="buuArNH3ClPtBuPtcZ4h-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-31" value="Recognise Patterns in the observations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="225" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-32" value="Pattern 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="buuArNH3ClPtBuPtcZ4h-31" vertex="1">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-33" value="Pattern 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="buuArNH3ClPtBuPtcZ4h-31" vertex="1">
+          <mxGeometry y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-34" value="---" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="buuArNH3ClPtBuPtcZ4h-31" vertex="1">
+          <mxGeometry y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-37" value="Pattern N" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="buuArNH3ClPtBuPtcZ4h-31" vertex="1">
+          <mxGeometry y="140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buuArNH3ClPtBuPtcZ4h-46" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="780" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JDY6QsptFnomeqGo2RR4" name="Page-2">
+    <mxGraphModel dx="834" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="skSogcBHd9JsYSixX3Dr-1" value="Human Intelligence" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="890" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="skSogcBHd9JsYSixX3Dr-1" source="skSogcBHd9JsYSixX3Dr-2" target="skSogcBHd9JsYSixX3Dr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-2" value="Observations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="skSogcBHd9JsYSixX3Dr-1">
+          <mxGeometry x="30" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="skSogcBHd9JsYSixX3Dr-1" source="skSogcBHd9JsYSixX3Dr-3" target="skSogcBHd9JsYSixX3Dr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-3" value="Pattern Recognition&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="skSogcBHd9JsYSixX3Dr-1">
+          <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="skSogcBHd9JsYSixX3Dr-1" source="skSogcBHd9JsYSixX3Dr-10" target="skSogcBHd9JsYSixX3Dr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-10" value="Pattern Evaluation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="skSogcBHd9JsYSixX3Dr-1">
+          <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="skSogcBHd9JsYSixX3Dr-1" source="skSogcBHd9JsYSixX3Dr-12" target="skSogcBHd9JsYSixX3Dr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-12" value="Pattern Evaluation and selection" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="skSogcBHd9JsYSixX3Dr-1">
+          <mxGeometry x="570" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="skSogcBHd9JsYSixX3Dr-1" source="skSogcBHd9JsYSixX3Dr-14" target="skSogcBHd9JsYSixX3Dr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-14" value="Application of selected patterns to solve problem in new tasks" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="skSogcBHd9JsYSixX3Dr-1">
+          <mxGeometry x="750" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skSogcBHd9JsYSixX3Dr-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="skSogcBHd9JsYSixX3Dr-1">
+          <mxGeometry x="750" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
